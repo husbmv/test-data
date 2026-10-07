@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+
+# 生成的 Excel / PDF 输出
+*单盘测试.xlsx
+*单盘测试.pdf
+表三接头损耗表.xlsx
+表三接头损耗表.pdf
+表四损耗表.xlsx
+表四损耗表.pdf
+段落清单.xlsx
+段落清单.pdf
+测试资料.xlsx
+合并后的Excel工作簿.xlsx
+test_file_*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
